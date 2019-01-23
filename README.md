@@ -1,2 +1,2 @@
 # T&eacute;cnicas
-Short codes. Note: Spanish and English language
+C&oacute;digos cortos.
